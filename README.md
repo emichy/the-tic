@@ -1,8 +1,6 @@
 # Modern Tic Tac Toe
 
-A beautiful, responsive Tic Tac Toe game built with React, TypeScript, and Tailwind CSS. Features both single-player and multiplayer modes with customizable icons and difficulty levels.
-
-![Game Preview](https://images.unsplash.com/photo-1611996575749-79a3a250f948?auto=format&fit=crop&q=80&w=1600)
+A simple, responsive Tic Tac Toe game built (with my kids!) with React, TypeScript, and Tailwind CSS. Features both single-player and multiplayer modes with customizable icons and difficulty levels.
 
 ## Features
 
